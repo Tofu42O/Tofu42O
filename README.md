@@ -1,8 +1,4 @@
-▄▄▄▄▄      ·▄▄▄▄• ▄▌
-•██  ▪     ▐▄▄·█▪██▌
- ▐█.▪ ▄█▀▄ ██▪ █▌▐█▌
- ▐█▌·▐█▌.▐▌██▌.▐█▄█▌
- ▀▀▀  ▀█▄▀▪▀▀▀  ▀▀▀ 
+TOFU* EST. 2023
  
 - python beginner
 - interested in fullstack web dev, freetime projects, python ui & game dev
