@@ -11,11 +11,11 @@
 - Python - 80%
 - C++ - 20%
 
-##### Project's im working on:
+##### Projects im working on:
 [Smallprojects](https://github.com/Tofu42O/smallprojects) - A compilation of small beginner python projects
 [Rolimonsbot](https://github.com/Tofu42O/rolimonsbot) - A discord bot than can send various information, built on discord.py
 
-######Y ou can reach me @
+###### You can reach me @
 - Tofu420_ on discord
 - @T0fu_Talks on twitter (X)
 
