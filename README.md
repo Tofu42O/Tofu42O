@@ -1,5 +1,5 @@
 # Hey, i'm Tofu!
-## You can find my projects here ongithub and on replit @ https://replit.com/@rasm273z
+## You can find my projects here on github and on replit @ https://replit.com/@rasm273z
 
 ### Here's some things that interest me:
 - Game development
